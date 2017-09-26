@@ -1,0 +1,12 @@
+[  
+    {  
+        "protractor":"protractor",
+        "configFiles":[  
+            "config.js"
+        ],
+        "debug":"false",
+        "arguments":"",
+        "beforeRunning":"",
+        "ignoreFailes":"true"
+    }
+]
