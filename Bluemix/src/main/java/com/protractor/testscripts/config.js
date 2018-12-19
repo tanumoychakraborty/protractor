@@ -15,7 +15,7 @@ exports.config = {
 	capabilities : {
 		browserName : 'chrome',
 		'chromeOptions': {
-		    'args': ['--headless']
+		    'args': ['--disable-web-security']
 		}
 /*		'shardTestFiles': true,
 		'maxInstances': 1*/
